@@ -1,4 +1,4 @@
-# mongoDB_project
+# neo4j_project
 
 ## About project:
 
