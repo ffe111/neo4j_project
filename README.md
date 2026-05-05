@@ -73,13 +73,13 @@ Graph Data Science 2.6.2
 ## About File in Project:
 
 ```
-64160118/                  | head folder
-64160118/README.txt        | this file. tell about project
-64160118/requirement.txt   | library requirement for python pip install
-64160118/highway_data.txt  | highway data for insert to database
-64160118/compass_16point.py| program for tell direction from latitude longitude
-64160118/main.py           | program for use manage database [CURD, Search path]
-64160118/menu.py           | program for display menu text interface
+neo4j_project/                  | head folder
+neo4j_project/README.txt        | this file. tell about project
+neo4j_project/requirement.txt   | library requirement for python pip install
+neo4j_project/highway_data.txt  | highway data for insert to database
+neo4j_project/compass_16point.py| program for tell direction from latitude longitude
+neo4j_project/main.py           | program for use manage database [CURD, Search path]
+neo4j_project/menu.py           | program for display menu text interface
 ```
 
 ## How to use:
